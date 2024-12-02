@@ -394,7 +394,7 @@
 
 /*** Single Page Hero Header Start ***/
 .bg-breadcrumb {
-    background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/breadcrumb-bg.jpg);
+    background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/food/horpack.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -585,7 +585,7 @@
 
 .packages .packages-item .packages-img .packages-price {
     position: absolute;
-    width: 100px; 
+    width: auto; 
     top: 0; 
     left: 50%; 
     transform: translateX(-50%);
